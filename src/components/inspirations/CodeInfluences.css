@@ -1,0 +1,46 @@
+.influence-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100vw;
+    padding: 11px;
+    justify-content: center;
+}
+.influencesContainer {
+    width: 50%;
+    padding: 5px;
+}
+.influence-pic {
+    width: 100px;
+    height: 100px;
+    object-fit: contain;
+}
+.influence-text {
+    padding: 10px;
+    text-align: left;
+    margin: 0 auto;
+}
+.inspiration-heading {
+    font-size: 15px;
+}
+
+/* styles for small devices */
+@media only screen and (min-width: 320px) and (max-width: 480px) {
+    
+}
+
+/* iPads and tablets */
+@media only screen and (min-width: 481px) and (max-width: 768px) {
+    
+}
+
+/* styles for laptops and small screens */
+@media only screen and (min-width: 769px) and (max-width: 1024px) {
+    
+}
+  
+/* styles for large screens and desktops */
+@media only screen and (min-width: 1025px) {
+    .influence-text {
+        width: 80%;
+    }
+}
