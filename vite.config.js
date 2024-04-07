@@ -9,4 +9,5 @@ export default defineConfig({
       src: "/src",
     },
   },
+  base: '/aboutMe-react-refactor.git',
 })
