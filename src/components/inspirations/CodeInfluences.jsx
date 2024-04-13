@@ -1,4 +1,6 @@
-import 'src/components/inspirations/CodeInfluences.css'
+import 'src/components/inspirations/CodeInfluences.css';
+import React from 'react'
+
 
 const CodeInfluences = ({heading, text, src, alt}) => {
   return (

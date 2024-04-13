@@ -1,4 +1,5 @@
 import './css/NormalRow.css'
+import React from 'react'
 
 const NormalRow = ({heading, text, src, alt}) => {
   return (
