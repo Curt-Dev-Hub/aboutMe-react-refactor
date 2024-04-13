@@ -8,7 +8,7 @@ import CodeInfluences from './components/inspirations/CodeInfluences';
 const imageInfo = [
   {
     heading: 'How I Got Involved In Web Development',
-    src: './src/assets/personal-row-images/normal-row-images/rsz_oscar-nilsson-13605-unsplash.webp',
+    src: '/assets/personal-row-images/normal-row-images/rsz_oscar-nilsson-13605-unsplash.webp',
     alt: 'Various tech devices such as a Laptop, keyboard, a computer mouse, headphones, and a book about learning to code',
     text: `My affinity with coding began when I discovered the problem-solving aspect involved in the 
     process of transforming a blank canvas into a working functioning website.
@@ -24,7 +24,7 @@ const imageInfo = [
   },
   {
     heading: 'Music',
-    src: './src/assets/personal-row-images/normal-row-images/rsz_guitar_pic_unsplash.webp',
+    src: '/assets/personal-row-images/normal-row-images/rsz_guitar_pic_unsplash.webp',
     alt: 'A bright daylit room with white walls containing an electric guitar, Fender Guitar amp, and 2 unopened packs of tennis balls',
     text: `Being a lover of Music and a bit of an audiophile, I am always seeking out music from 
     various genres in the highest quality audio available. 
@@ -35,7 +35,7 @@ const imageInfo = [
   },
   {
     heading: 'Gaming',
-    src: './src/assets/personal-row-images/normal-row-images/dreamcast controller small.webp',
+    src: '/assets/personal-row-images/normal-row-images/dreamcast controller small.webp',
     alt: 'A Sega Dreamcast control pad with VMU memory card attached',
     text: `I'm really into old skool gaming, I have a huge love for games 
     from around the late 90's early 2000's era. I have a modern games console, an Xbox One S 
@@ -44,7 +44,7 @@ const imageInfo = [
   },
   {
     heading: 'Films',
-    src: './src/assets/personal-row-images/normal-row-images/small-hollywood.webp',
+    src: '/assets/personal-row-images/normal-row-images/small-hollywood.webp',
     alt: 'The famous Hollywood Sign found in Mount Lee, Los Angeles',
     text: `Yep, I have a soft side for a good movie my fave genres being Sci Fi, 
     Action, Psychological thrillers, Comedy, Anime, Adventure & Horror.`
@@ -58,21 +58,21 @@ const imageInfo = [
 const influencesInfo = [
   {
     heading: 'Udemy',
-    src: './src/assets/inspiration-images/udemy-thumb.webp',
+    src: '/assets/inspiration-images/udemy-thumb.webp',
     alt: 'Logo of the online learning platform Udemy',
     text: `I owe the majority of my knowledge at this point to teachers 
     on the Udemy platform, most notably Colt Steele and Jonas Schmedtman`
   },
   {
     heading: 'Pluralsight',
-    src: './src/assets/inspiration-images/pluralsight-thumb.webp',
+    src: '/assets/inspiration-images/pluralsight-thumb.webp',
     alt: 'Logo of the Microsoft owned online learning platform, Pluralsight',
     text: `Helped me a lot during my early stages of learning code, I really loved their 
     style of teaching CSS and found it easiest learning about the cascade and other CSS priciples.`
   },
   {
     heading: 'SyntaxFM Podcast',
-    src: './src/assets/inspiration-images/syntax-thumb.webp',
+    src: '/assets/inspiration-images/syntax-thumb.webp',
     alt: 'Logo of the online SyntaxFM Podcast hosted by Wes Bos and Scott Tolinski',
     text: `I mainly listened to this great podcast normally on my commute to work and 
     sometimes while coding. A great way to stay update with current news, and best 
@@ -80,14 +80,14 @@ const influencesInfo = [
   },
   {
     heading: 'BaseCS Podcast',
-    src: './src/assets/inspiration-images/base-cs-thumb.webp',
+    src: '/assets/inspiration-images/base-cs-thumb.webp',
     alt: 'The famous Hollywood Sign found in Mount Lee, Los Angeles',
     text: `Excellent content, quirky and funny, I listen to an episode of this lighthearted computer 
     science podcast most mornings on the way to work.`
   },
   {
     heading: 'Code Newbie Podcast',
-    src: './src/assets/inspiration-images/code-newbie-thumb.webp',
+    src: '/assets/inspiration-images/code-newbie-thumb.webp',
     alt: 'The Code Newbie Podcast Logo',
     text: `I've found code newbie to be very inspirational, and at 
     times when I've felt a bit down or frustrated about my coding progress, 
@@ -95,7 +95,7 @@ const influencesInfo = [
   },
   {
     heading: 'JS Party',
-    src: './src/assets/inspiration-images/js-party-400.webp',
+    src: '/assets/inspiration-images/js-party-400.webp',
     alt: 'Logo of the JS Party Podcast',
     text: `JS Party is much the same as the Syntax podcast, super informative, though with more guests 
     on the show, you get more varied opinions on a given topical.`
