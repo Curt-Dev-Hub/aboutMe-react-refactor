@@ -5,7 +5,7 @@ import { useEffect } from 'react';
 
 
 function LargeRow() {
-    const myImage = 'src/assets/personal-row-images/rsz_me-cropped.webp'
+    const myImage = '../assets/personal-row-images/rsz_me-cropped.webp'
 
     // adjust top image image sizing dynamically
     function adjustImageWidth() {
