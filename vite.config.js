@@ -5,9 +5,9 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   base: "/aboutMe-react-refactor/",
   plugins: [react()],
-  resolve: {
-    alias: {
-      src: "/src",
-    },
-  }
+  // resolve: {
+  //   alias: {
+  //     src: "/src",
+  //   },
+  // }
 })

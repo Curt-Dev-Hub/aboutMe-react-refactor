@@ -1,4 +1,5 @@
-import 'src/components/inspirations/CodeInfluences.css';
+// import 'src/components/inspirations/CodeInfluences.css';
+import '../inspirations/CodeInfluences.css';
 import React from 'react'
 
 
