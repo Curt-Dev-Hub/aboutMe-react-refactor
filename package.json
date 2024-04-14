@@ -1,13 +1,13 @@
 {
+  "homepage": "https://curt-dev-hub.github.io/aboutMe-react-refactor/",
   "name": "about-me",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://curt-dev-hub.github.io/aboutMe-react-refactor/",
   "scripts": {
     "predeploy": "npm run build",
-    "dev": "vite",
     "deploy": "gh-pages -d dist",
+    "dev": "vite",
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
