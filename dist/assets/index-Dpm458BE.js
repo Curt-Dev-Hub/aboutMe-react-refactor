@@ -51,7 +51,7 @@ Error generating stack: `+o.message+`
     I was introduced to playing the guitar around 2013, which I then continued learning 
     throughout the following years. Although I don't get to play as much as I used to 
     I still own both electric and Acoustic guitars.
-    `},{heading:"Gaming",src:"src/assets/personal-row-images/normal-row-images/dreamcast controller small.webp",alt:"A Sega Dreamcast control pad with VMU memory card attached",text:`I'm really into old skool gaming, I have a huge love for games 
+    `},{heading:"Gaming",src:"https://github.com/Curt-Dev-Hub/aboutMe-react-refactor/blob/main/src/assets/personal-row-images/normal-row-images/dreamcast%20controller%20small.webp",alt:"A Sega Dreamcast control pad with VMU memory card attached",text:`I'm really into old skool gaming, I have a huge love for games 
     from around the late 90's early 2000's era. I have a modern games console, an Xbox One S 
     which I acquired for a nice price in the 2018 black friday sales. What is my favourite 
     console of all time?? Hmmm, I'd say the Nintendo 64 with the Sega Dreamcast being a very close 2nd.🙂`},{heading:"Films",src:"src/assets/personal-row-images/normal-row-images/small-hollywood.webp",alt:"The famous Hollywood Sign found in Mount Lee, Los Angeles",text:`Yep, I have a soft side for a good movie my fave genres being Sci Fi, 
