@@ -35,7 +35,7 @@ const imageInfo = [
   },
   {
     heading: 'Gaming',
-    src: './assets/personal-row-images/normal-row-images/dreamcast 20controller 20small.webp',
+    src: './assets/personal-row-images/normal-row-images/dreamcast controller small.webp',
     alt: 'A Sega Dreamcast control pad with VMU memory card attached',
     text: `I'm really into old skool gaming, I have a huge love for games 
     from around the late 90's early 2000's era. I have a modern games console, an Xbox One S 
