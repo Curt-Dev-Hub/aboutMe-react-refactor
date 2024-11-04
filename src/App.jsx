@@ -46,7 +46,7 @@ const imageInfo = [
     heading: 'Films',
     src: './assets/personal-row-images/normal-row-images/small-hollywood.webp',
     alt: 'The famous Hollywood Sign found in Mount Lee, Los Angeles',
-    text: `Yep, I have a soft side for a good movie my fave genres being Sci Fi, 
+    text: `I have a soft side for a good movie, with my favorite genres being Sci Fi, 
     Action, Psychological thrillers, Comedy, Anime, Adventure & Horror.`
   }  
 ];
